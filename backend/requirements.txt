@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.22.1
+python-dotenv==1.0.1
+Pillow==10.4.0
+sqlite3  # já vem no Python
